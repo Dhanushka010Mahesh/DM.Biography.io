@@ -69,9 +69,9 @@ mark{
 	font-size: 28px;
 }
 #perfilePic{
-	width: 200px;
-	height: 200px;
-	margin-left: 170px;
+	width: 25%;
+	height: 25%;
+	margin-left: 27%;
 	border-radius: 100%;
 	border: 2px solid darkred;
 }
@@ -93,19 +93,19 @@ dd{
 	border-radius: 70%;
 }
 #picSchool{
-	width: 400px;
+	width: 80%;
 	height: 150px;
 }
 #videoProject{
-	width: 400px;
-	height: 170px;
+	width: 85%;
+	height:150px;
 }
 #MyIcons{
-	width: 70px;
-	height: 70px;
+	width: 12%;
+	height: 65px;
 	border: 1px solid red;
 	border-radius: 80%;
-	margin-left: 445px;
+	margin-left: 80%;
 }
 #DownButton{
 	height: 30px;
